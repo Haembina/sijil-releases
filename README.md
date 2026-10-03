@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="icons/icon.png" alt="Sijil logo" width="128">
+</p>
+
 # Sijil — downloads
 
 The Windows installers for [Sijil](https://github.com/Haembina/Sijil), and
